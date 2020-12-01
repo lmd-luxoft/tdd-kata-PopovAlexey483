@@ -3,8 +3,10 @@
 /// <summary>
 /// Class Under test
 /// </summary>
+
 class Calculator
 {
+public:
 	/// <summary>
 	/// Sum of elements expression
 	/// </summary>
